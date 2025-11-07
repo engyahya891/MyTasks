@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 94vh;
+    background: linear-gradient(135deg, #914AAE, #d2a8ed, #A969ED);
+    color: white;
+    padding: 20px;
+}
+
+
+#clock {
+    text-align: center;
+    background-color: #b268cf;
+    box-shadow: 3px 5px 5px 3px rgb(255, 228, 228);
+    border-radius: 20px;
+    padding: 70px;
+    color: #e9cad9;
+    font-weight: 900;
+}
+#clock h1{
+ font-size: 25px;
+
+}
+#cont{
+    font-size: 70px;
+}
+#day{
+    font-size: 25px;
+    font-weight: 600;
+}
