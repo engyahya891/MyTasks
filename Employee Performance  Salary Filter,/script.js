@@ -45,3 +45,10 @@ console.log("avrage in employees salary : " , avgSalary);
 console.log("new employees array : " , salaryAddEmp);
 console.log("Top Performance Employe: " , topEmp);
 
+
+
+let div = document.createElement("div");
+let myH2 = document.createElement("h3");
+let myH3 = document.createElement("h2");
+
+console.log(div);
